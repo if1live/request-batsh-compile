@@ -1,5 +1,5 @@
 # request-batsh-compile
-compile batsh source in http://batsh.org
+use http://batsh.org, to compile [batsh language][repo-batsh] source file.
 
 ## install
 
@@ -20,3 +20,7 @@ compile to windows batch
 ```bash
 request-batsh-compile -target winbat -src testdata/sample-success.batsh
 ```
+
+
+[repo-batsh]: https://github.com/BYVoid/Batsh
+[site-batsh]: http://batsh.org
